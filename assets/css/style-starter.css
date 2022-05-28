@@ -19875,12 +19875,12 @@ ul.rating-list li a.review-color {
 }
 
 .w3l-service-1 .content23-grid1 {
-  background: url("../images/bg1.jpg") no-repeat center;
+  background: url("../images/school/planting.jpg") no-repeat center;
   background-size: cover;
 }
 
 .w3l-service-1 .content23-grid2 {
-  background: url("../images/bg2.jpg") no-repeat center;
+  background: url("../images/school/speech.jpg") no-repeat center;
   background-size: cover;
 }
 
@@ -19891,7 +19891,7 @@ ul.rating-list li a.review-color {
   height: 100%;
   top: 0;
   left: 0;
-  background: rgb(4 4 4 / 50%);
+  background: rgb(4 4 4 / 10%);
   z-index: -1;
   border-radius: var(--border-radius);
 }
@@ -20134,7 +20134,7 @@ p.count-text {
 
 /* testimonials block */
 .w3l-index4 {
-  background: url(../images/bg3.jpg) no-repeat;
+  background: url(../images/school/board.jpg) no-repeat;
   background-size: cover;
   -webkit-background-size: cover;
   -moz-background-size: cover;
